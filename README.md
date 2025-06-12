@@ -5,6 +5,6 @@
 React + tailwindcss frontend
 express + mongoDB backend.
 
-# Setup (Local)
+## Setup (Local)
 
 Open server/README.md and client/README.md
